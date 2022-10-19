@@ -1,4 +1,4 @@
-# Face-Fixation-Dataset
+# Uniss Face-Fixation-Dataset
 Our human fixation database is captured by presenting participants with images from the KDEF database and using an eye-tracker to record the results. The KDEF database is a set of 4900 pictures of human faces from 70 individuals, 35 female and 35 male. There are seven distinct emotional expressions, each of which is photographed twice from five different angles.
 
 For our data capture, we curated a selection of 120 images from the frontal images of the expressions “neutral”, “happy”, and “sad” of the first 20 female and first 20 male individuals in KDEF. The images were free-viewed by the participants. This choice was made to allow for the widest comparison with Machine Learning models trained for diverse tasks. In effect, this was to make the fixation dataset as general as possible.
